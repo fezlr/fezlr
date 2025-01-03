@@ -1,8 +1,12 @@
 
 
-<!--
-**artemka68/artemka68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Static Badge](https://img.shields.io/badge/telegram-df213?style=for-the-badge&logo=telegram&color=white&link=https%3A%2F%2Ft.me%2Fartemmkkkka) ![Static Badge](https://img.shields.io/badge/gmail-df213?style=for-the-badge&logo=gmail&color=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2Fartem141789%40gmail.com)
+<div align="center">
+  <a href="https://mail.google.com/mail/u/artem141789@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/artemmkkkka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 
