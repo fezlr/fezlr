@@ -15,6 +15,6 @@
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TEUCHESH&theme=github-compact&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fezlr&theme=github-compact&area=true&hide_border=true" width="100%">
 
 </div>
